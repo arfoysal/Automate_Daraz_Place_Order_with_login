@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import basePackage.DriverSetup;
+import base.DriverSetup;
 
 public class DarazPlaceAnOrder extends DriverSetup {
 	public static String baseurl = "https://www.daraz.com.bd";
